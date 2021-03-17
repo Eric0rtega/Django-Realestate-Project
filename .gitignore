@@ -1,6 +1,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/django,python,macos,vscode
 # Edit at https://www.toptal.com/developers/gitignore?templates=django,python,macos,vscode
 
+# Security
+config.py
 ### Django ###
 *.log
 *.pot
